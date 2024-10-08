@@ -1,17 +1,16 @@
-h1 {
-    color: green;
+#box {
+    background-color: blue; 
+    /* color: white; */
 }
 
-p {
-    color: blue;
+/* .heading { 
+    color: red;
+} */
+
+h1,h2,h3 {
+    color: red;
 }
 
 button {
-    color: wheat;
-    background-color: black;
+    background-color: green;
 }
-
-body {
-    background-color: #ECDFCC;
-}
-
